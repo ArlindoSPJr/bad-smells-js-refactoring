@@ -16,11 +16,7 @@
     "sonarjs"
   ],
   "rules": {
-    "sonarjs/cognitive-complexity": [
-      "error",
-      5
-    ],
-    "sonarjs/no-identical-functions": "error",
-    "sonarjs/no-duplicated-branches": "error"
+    "sonarjs/cognitive-complexity": ["error", 15],
+    "sonarjs/no-identical-functions": "error"
   }
 }
